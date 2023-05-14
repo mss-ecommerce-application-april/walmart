@@ -1,3 +1,0 @@
-THIS FILE CONTAINS GIT..............
-
-HELLO DEAR
